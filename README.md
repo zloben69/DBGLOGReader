@@ -1,2 +1,2 @@
 # DBGLOGReader
-FTVIew datalog reader and maybe something more
+Sandbox. Do what u whant
